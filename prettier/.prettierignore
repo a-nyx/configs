@@ -1,0 +1,11 @@
+# project
+
+# npm
+node_modules/
+package-lock.json
+
+# next
+.next/
+.cache/
+out/
+next-env.d.ts

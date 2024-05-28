@@ -1,0 +1,12 @@
+{
+  "name": "configs",
+  "version": "0.0.1",
+  "scripts": {
+    "prettify": "prettier --write \"./**/*.{html,css,less,scss,js,jsx,ts,tsx,json,md,yaml,yml,php}\""
+  },
+  "author": "Peter Griffin",
+  "devDependencies": {
+    "@prettier/plugin-php": "^0.22.2",
+    "prettier": "^3.2.5"
+  }
+}
